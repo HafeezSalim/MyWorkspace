@@ -1,4 +1,4 @@
-# Prototype of a minigame
+# Rock Paper Scissors Minigame
 
 import numpy as np
 from time import sleep
